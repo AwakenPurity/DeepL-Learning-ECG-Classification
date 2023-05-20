@@ -6,7 +6,7 @@ import tensorflow as tf
 import matplotlib.pyplot as plt
 from sklearn.metrics import confusion_matrix
 
-# 测试集在数据集中所占的比例
+# 测试集在数据集中所占的比例 
 RATIO = 0.2
 
 # 小波去噪预处理
